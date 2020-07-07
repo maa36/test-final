@@ -1,0 +1,33 @@
+.matiere-souhaite {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0px;
+  border: 2px solid rgb(235, 114, 114);
+  margin: 6px 1px;
+}
+.matiere-souhaite label {
+  border: 2px solid black;
+  margin: 0 0;
+}
+.header-souhaite {
+  display: flex;
+  justify-content: space-between;
+}
+.header-souhaite div {
+  text-align: center;
+}
+
+
+.labelTrue {
+  background: #5940e9;
+  border: 2px solid black;
+
+}
+
+.labelFalse {
+  
+  background:  white;
+  border: 2px solid black;
+
+  
+}

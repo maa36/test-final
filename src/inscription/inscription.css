@@ -1,0 +1,41 @@
+
+.inscriptionenzo {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.MuiButton-root {
+  margin-left: 4px;
+}
+ .MuiInputBase-input{ 
+    border: 2px solid #8d8d8d; 
+    border-radius: 0.25rem;
+  
+  }
+.inscriptionenzo label {
+    width: 125px;
+}
+
+.matieres {
+    margin:  30px 0px;
+    padding: 50px 0px;
+    border: 2px solid black;
+
+}
+
+
+
+
+
+.buttonTrue {
+    background: white;
+    border: 2px solid black;
+
+  }
+  
+  .buttonFalse {  
+    background:  #869592;
+    border: 2px solid black;
+    
+  }
+  

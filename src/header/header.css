@@ -1,0 +1,12 @@
+ .header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+  .nav .nav-item {
+    margin: 0px 10px;
+   
+} */
+.header a {
+        text-decoration-line: underline;
+}   
